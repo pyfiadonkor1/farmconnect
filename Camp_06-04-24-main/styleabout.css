@@ -19,6 +19,7 @@ body{
 a {
     text-decoration: none;
     transition: 0.3s;
+    color: inherit;
 }
 nav {
     position: fixed;

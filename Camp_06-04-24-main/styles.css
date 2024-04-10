@@ -30,7 +30,10 @@ img {
 a {
   text-decoration: none;
   transition: 0.3s;
+  color: inherit;
 }
+
+
 
 body {
   font-family: "Montserrat", sans-serif;
